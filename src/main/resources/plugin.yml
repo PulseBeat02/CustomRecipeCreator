@@ -1,0 +1,9 @@
+name: Brewery
+main: com.pulsebeat02.customrecipecreator.CustomRecipeCreator
+version: 1.0.0
+description: Custom Brewing Recipes
+author: PulseBeat_02
+api-version: 1.16
+commands:
+   crc:
+      description: Open Custom Recipe Creator
